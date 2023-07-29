@@ -1,1 +1,1 @@
-# Repositorio em manuntencao
+# Repositorio em manuntenção
