@@ -1,11 +1,11 @@
 <img src="img/lussati-300.jpg" width="100px" align="left">
 
 # Lussati Santos - Junior Developer
-Contact me: <a href="https://www.facebook.com/lussati.santos"  target="_blank">Facebook</a> <a href="">Twitter</a> <a href="">LinkedIn</a> <a href="">GitHub</a> <a href="">Mail</a>
+Contact me: <a href="https://www.facebook.com/lussati.santos" target="_blank">Facebook</a> <a href="https://www.twitter.com/lussatisantos" target="_blank">Twitter</a> <a href="https://www.linkedin.com/lussatisantos" target="_blank">LinkedIn</a> <a href="https://www.github.com/lussatisantos" target="_blank">GitHub</a> <a href="lussatisantos10@gmail.com" target="_blank">Mail</a>
 
 
 Welcome to my public repository, click on links to redirect to code project on my github or contact me to any network
-<div align="center">
+
 ## Jupyter Notebook
 - Intro to my basic course of jupyter <a href="https://github.com/lussatisantos/jupyter">click here</a>
 
@@ -28,4 +28,3 @@ Welcome to my public repository, click on links to redirect to code project on m
 - Projcto Cordel, developed during my basic course <a href="https://github.com/lussatisantos/projecto-cordel">click here</a>
 - Android site, developed during my basic course <a href="https://github.com/lussatisantos/android-site">click here</a>
 - Front-end basico, developed during my basic course <a href="https://github.com/lussatisantos/front-end-basico"> click here</a>
-</div>
