@@ -2,7 +2,8 @@
 <img src="img/lussati-300.jpg" width="100px">
 
 Welcome to my public repository, click on links to redirect to code project on my github or contact me to any network
-
+## JavaScript
+- Algorithm - Introduction to javascript, same exercise done in Python, <a href="">click here</a> 
 ## HTML & CSS
 - Project_burgher, developed during my basic course <a href="https://github.com/lussatisantos/project_burgher">click here</a>
 - Hotel Lobito, developed during my basic course <a href="https://github.com/lussatisantos/hotel-lobito">click here</a>
