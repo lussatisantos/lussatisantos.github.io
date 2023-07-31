@@ -1,12 +1,14 @@
+<img src="img/lussati-300.jpg" width="100px" align="left">
 
 # Lussati Santos - Junior Developer
-<img src="img/lussati-300.jpg" width="100px">
+Contact me: <a href="https://www.facebook.com/lussati.santos"  target="_blank">Facebook</a> <a href="">Twitter</a> <a href="">LinkedIn</a> <a href="">GitHub</a> <a href="">Mail</a>
+
 
 Welcome to my public repository, click on links to redirect to code project on my github or contact me to any network
-
+<div align="center">
 ## Jupyter Notebook
 - Intro to my basic course of jupyter <a href="https://github.com/lussatisantos/jupyter">click here</a>
-<div align="center">
+
 ## Python
 - Virtual calculator v1, my second think of a simple project <a href="https://github.com/lussatisantos/virtual-calculator-v1">click here</a>
 -  Controle de gastos, developed during to Django basic course <a href="https://github.com/lussatisantos/controle_gastos_django">click here</a>
