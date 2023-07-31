@@ -4,6 +4,8 @@
 Welcome to my public repository, click on links to redirect to code project on my github or contact me to any network
 
 ## HTML & CSS
+- Project_burgher, developed during my basic course <a href="https://github.com/lussatisantos/project_burgher">click here</a>
+- Hotel Lobito, developed during my basic course <a href="https://github.com/lussatisantos/hotel-lobito">click here</a>
 - Aprendendi html, developed during my basic course <a href="https://github.com/lussatisantos/aprendendo-html">click here</a>
 - Brincando cores, developed during my basic course <a href="https://github.com/lussatisantos/brincando-cores-css">click here</a>
 - Projcto Cordel, developed during my basic course <a href="https://github.com/lussatisantos/projecto-cordel">click here</a>
