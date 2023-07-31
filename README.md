@@ -2,8 +2,10 @@
 <img src="img/lussati-300.jpg" width="100px">
 
 Welcome to my public repository, click on links to redirect to code project on my github or contact me to any network
-
+## Python
+- More 100 exercise solved <a href="https://github.com/lussatisantos/algoritmo-python">click here</a>
 ## JavaScript
+- Criador de postagens, developed during my course of NodeJS <a href="https://github.com/lussatisantos/criadordepostagens-nodejs">click here</a>
 - BlogAPP, developed during course of NodeJS <a href="https://github.com/lussatisantos/blogapp-nodejs">click here</a>
 - Algorithm - Introduction to javascript, same exercise done in Python, <a href="https://github.com/lussatisantos/Algoritmo">click here</a>
 
