@@ -6,7 +6,7 @@ Welcome to my public repository, click on links to redirect to code project on m
 
 ## Jupyter Notebook
 - Intro to my basic course of jupyter <a href="https://github.com/lussatisantos/jupyter">click here</a>
-<div text-align="center">
+<div align="center">
 ## Python
 - Virtual calculator v1, my second think of a simple project <a href="https://github.com/lussatisantos/virtual-calculator-v1">click here</a>
 -  Controle de gastos, developed during to Django basic course <a href="https://github.com/lussatisantos/controle_gastos_django">click here</a>
