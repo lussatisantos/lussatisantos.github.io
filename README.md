@@ -3,6 +3,8 @@
 
 Welcome to my public repository, click on links to redirect to code project on my github or contact me to any network
 ## Python
+-  Controle de gastos, developed during to Django basic course <a href="https://github.com/lussatisantos/controle_gastos_django">click here</a>
+- Sistema de facturacao v1, my first think of simple project <a href="https://github.com/lussatisantos/sistema_de_facturacao_v1">click here</a>
 - More 100 exercise solved <a href="https://github.com/lussatisantos/algoritmo-python">click here</a>
 ## JavaScript
 - Criador de postagens, developed during my course of NodeJS <a href="https://github.com/lussatisantos/criadordepostagens-nodejs">click here</a>
