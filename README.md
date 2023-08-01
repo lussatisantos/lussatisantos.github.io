@@ -10,8 +10,8 @@ Welcome to my public repository, click on links to redirect to code project on m
 - Intro to my basic course of jupyter <a href="https://github.com/lussatisantos/jupyter" target="_blank">click here</a>
 
 ## Python
-- Sistema de facturacao v2, a simple script project to convivio do lobito <a href="https://github.com/lussatisantos/virtual-calculator-v1" target="_blank">click here</a>
-- Virtual calculator v1, my second think of a simple project <a href="https://github.com/lussatisantos/sistema_de_facturacao_v2" target="_blank">click here</a>
+- Sistema de facturacao v2, a simple script project to convivio do lobito <a href="https://github.com/lussatisantos/sistema_de_facturacao_v2" target="_blank">click here</a>
+- Virtual calculator v1, my second think of a simple project <a href="https://github.com/lussatisantos/virtual-calculator-v1" target="_blank">click here</a>
 -  Controle de gastos, developed during to Django basic course <a href="https://github.com/lussatisantos/controle_gastos_django" target="_blank">click here</a>
 - Sistema de facturacao v1, my first think of simple project <a href="https://github.com/lussatisantos/sistema_de_facturacao_v1" target="_blank">click here</a>
 - More 100 exercise solved <a href="https://github.com/lussatisantos/algoritmo-python" target="_blank">click here</a>
