@@ -1,3 +1,7 @@
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3109586549616699"
+     crossorigin="anonymous"></script>
+</head>
 <img src="img/lussati-300.jpg" width="100px" align="left">
 
 # Lussati Santos - Junior Developer
