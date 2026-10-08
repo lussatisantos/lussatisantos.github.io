@@ -45,12 +45,20 @@
     if (
       event.ctrlKey && (event.key === 'u' || event.key === 'U') ||
       event.key === 'F12' ||
-      (event.ctrlKey && event.shiftKey && (event.key === 'I' || event.key === 'i') || 
-       (event.ctrlKey || event.metaKey) && (event.key === 'c' || event.key === 'C')
+      (event.ctrlKey && event.shiftKey && (event.key === 'I' || event.key === 'i'))
     ) {
       event.preventDefault();
     }
   });
+
+        document.addEventListener('copy', function(event) {
+  event.preventDefault();
+});
+document.addEventListener('keydown', function(event) {
+  if ((event.ctrlKey || event.metaKey) && (event.key === 'c' || event.key === 'C')) {
+    event.preventDefault();
+  }
+});
 </script>
 </head>
 <body>
