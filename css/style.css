@@ -3,7 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+{
+  -webkit-user-select: none; /* Safari / Chrome antigo */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* Internet Explorer / Edge antigo */
+  user-select: none;         /* Padrão moderno (Chrome, Edge, Opera) */
+}
 :root {
     --text-color: white;
     --bg-url: url('../assets/bg-mobile.jpg') ;
