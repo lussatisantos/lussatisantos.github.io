@@ -1,1 +1,41 @@
+<html>
+  <head>
+    <title>Porfolio Lussati Santos</title>
+    <meta charset="UTF-8"/>
+    <style>
+      .sap-gallery {margin: 40px 0; text-align: center;} 
+      .sap-gallery h2 {font-size: 1.5rem; margin-bottom: 5px; color: #333;} 
+      .gallery-subtitle {font-size: 0.9rem; color:#666; margin-bottom: 25px;}
+      .gallery-grid {display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding:0 20px;}
+      .gallery-card {background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; border: 1px solid #eaeaea;}
+      .gallery-card:hover {transform: translateY(-5px); box-shadow: 0 8px 20px rgba(0,0,0,0.1);}
+      .gallery-card img {width:100%; height: 100%; object-fit: cover; border-bottom: 1px solid #eaeaea;}
+      .card-content {padding: 15px; text-align: left;}
+      .card-content h3 {font-size: 1.1rem; margin: 0 0 10px 0;}
+      .card-content p {font-size: 0.85rem; color: #555; margin: 0; line-height: 1.4;}
 
+      @media (max-width: 600px) {
+        .gallery-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <section class="sap-gallery">
+      <h2> SAP Hands-on Practice / Prática SAP</h2>
+      <p class="gallery-subtitle">A minha jornada de aprendizagem prática no SAP S/4HANA</p>
+      <div class="gallery-grid">
+        
+        <div class="gallery-card">
+          <img src="img/manage_cost_center.png" alt="">
+          <div class="card-content">
+            <h3>Gestão de Centros de Custos (FI)</h3>
+            <p>Exploração da app Fiori para gestão de centros de custos e estrutura organizacional.</p>
+          </div>
+        </div>
+        
+      </div>
+    </section>
+  </body>
+</html>
