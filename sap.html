@@ -6,10 +6,10 @@
       .sap-gallery {margin: 40px 0; text-align: center;} 
       .sap-gallery h2 {font-size: 1.5rem; margin-bottom: 5px; color: #333;} 
       .gallery-subtitle {font-size: 0.9rem; color:#666; margin-bottom: 25px;}
-      .gallery-grid {display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding:0 20px;}
+      .gallery-grid {display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding:0 20px;}
       .gallery-card {background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; border: 1px solid #eaeaea;}
       .gallery-card:hover {transform: translateY(-5px); box-shadow: 0 8px 20px rgba(0,0,0,0.1);}
-      .gallery-card img {width:100%; height: 300px; object-fit: cover; border-bottom: 1px solid #eaeaea;}
+      .gallery-card img {width:100%; height: auto; aspect-ration: 16/9; object-fit: contain; border-bottom: 1px solid #eaeaea;}
       .card-content {padding: 15px; text-align: left;}
       .card-content h3 {font-size: 1.1rem; margin: 0 0 10px 0;}
       .card-content p {font-size: 0.85rem; color: #555; margin: 0; line-height: 1.4;}
@@ -38,7 +38,9 @@
         </div>
         
         <div class="gallery-card">
-          <img src="img/manage_cost_center.png" alt="manage cost center sap fi">
+          <a href="img/manage_cost_center.png" target="_blank">         
+            <img src="img/manage_cost_center.png" alt="manage cost center sap fi">
+          </a>
           <div class="card-content">
             <span class="card-date">23 de Setembro de 2026</span>
             <h3>Gestão de Centros de Custos (FI)</h3>
